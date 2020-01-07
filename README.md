@@ -9,4 +9,5 @@ This app was built to gain understanding of server and API routing. Only demonst
 * Clicking "View all characters" displays raw JSON of the list returned from the database
 
 ## Built With
-[Bootstrap](https://getbootstrap.com)
+* [Bootstrap](https://getbootstrap.com)
+* [Express](https://expressjs.com)
