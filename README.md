@@ -1,5 +1,12 @@
-# **Instructions**
+# Star Wars Search
+This app was built to gain understanding of server and API routing. Only demonstrates basic abilities.
 
-* Spend a few moments looking over the code sent to you. First, get the server running, then begin to dissect the JavaScript code found at the bottom of `add.html`.
+## Instructions & Usage
+* To search for a character, the exact character name must be typed in
 
-* Explain to one another what the code does, what its for, and why its relevant to the application so far. Be sure to explain to one another what the `$.post` code is doing.
+* Adding a character only requires filling out forms related to desired stats. Click "Add to the force" to add character to database
+
+* Clicking "View all characters" displays raw JSON of the list returned from the database
+
+## Built With
+[Bootstrap](https://getbootstrap.com)
